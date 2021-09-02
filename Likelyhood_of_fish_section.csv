@@ -1,0 +1,857 @@
+WATERSHED_FEATURE_ID,RB_Status,CT_Status,BT_Status,DV_Status
+1906,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+1907,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+1908,Confirmed,Confirmed,Confirmed,Confirmed
+1909,Confirmed,Confirmed,Confirmed,Confirmed
+1910,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+1911,Confirmed,Confirmed,Confirmed,Confirmed
+1912,Confirmed,Confirmed,Confirmed,Confirmed
+1913,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+1914,Confirmed,Confirmed,Confirmed,Confirmed
+1915,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Very likely: >10 km of suitable stream reaches.
+1916,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+1917,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+1918,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+1919,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+1920,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+1921,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.
+1922,Confirmed,Confirmed,Confirmed,Confirmed
+1923,Confirmed,Confirmed,Confirmed,Confirmed
+1924,Confirmed,Confirmed,Confirmed,Confirmed
+1925,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1926,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1927,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1928,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1929,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1930,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1931,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1932,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1933,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+1934,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+2425,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+2426,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+2427,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+2428,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+2433,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4059,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4060,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4061,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4062,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4063,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4064,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+4065,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+4066,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4067,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+4068,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4069,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4070,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4071,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4072,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4073,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+4074,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4075,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4076,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4077,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4078,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4079,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4081,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4082,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4083,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4085,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4086,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4087,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4088,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4089,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4090,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4091,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4092,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4093,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4094,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4095,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4096,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4097,Likely: 1_10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4098,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4099,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4100,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4101,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4102,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4103,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4104,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4105,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4106,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4107,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4108,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4109,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4110,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches
+4111,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches
+4112,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4113,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4114,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4115,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4116,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4117,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+4118,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4119,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4120,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4121,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4122,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4123,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4124,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4125,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Very likely: >10 km of suitable stream reaches.
+4126,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4127,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4128,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4129,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4130,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4131,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4132,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4133,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4134,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4135,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4136,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.
+4137,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4138,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4139,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4140,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4141,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4150,Confirmed,Confirmed,Confirmed,Confirmed
+4151,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4152,Confirmed,Confirmed,Confirmed,Confirmed
+4153,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4154,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4155,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4156,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4157,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4158,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4159,Confirmed,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.
+4160,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4161,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4673,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4674,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4675,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4676,Confirmed,Confirmed,Confirmed,Confirmed
+4677,Confirmed,Confirmed,Confirmed,Confirmed
+4678,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+4679,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+4680,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4681,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4682,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4683,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4684,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4685,Confirmed,Confirmed,Confirmed,Confirmed
+4686,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4687,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4688,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4689,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+4690,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4691,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4692,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4693,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4694,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4695,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+4696,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4697,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4698,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4699,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4700,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4701,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4702,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4703,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4704,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4705,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4706,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4707,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4708,Confirmed,Confirmed,Confirmed,Confirmed
+4709,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4710,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4711,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4712,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4713,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4714,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4715,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4716,Confirmed,Confirmed,Confirmed,Confirmed
+4717,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4718,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+4719,Confirmed,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches
+4720,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4721,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4722,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4723,Confirmed,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches
+4724,Confirmed,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4725,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4726,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+4727,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4728,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4729,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4730,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+4731,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4732,Confirmed,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.
+4733,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+4844,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4845,Confirmed,Confirmed,Confirmed,Confirmed
+4846,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed,Confirmed
+4847,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4848,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+4849,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4850,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4851,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+4852,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4853,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4854,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4855,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4856,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+4857,Confirmed,Confirmed,Confirmed,Confirmed
+4858,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4859,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4860,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4861,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4862,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4863,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4864,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4865,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4866,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4867,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4868,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4869,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Confirmed,Confirmed
+4870,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4871,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4872,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+4873,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4874,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+4875,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4876,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4877,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4878,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4879,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4880,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4881,Likely: 1_10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+4882,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed,Confirmed
+4883,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4884,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4885,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4886,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4887,Confirmed,Confirmed,Confirmed,Confirmed
+4888,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4889,Confirmed,Confirmed,Confirmed,Confirmed
+4890,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+4891,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+4892,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4893,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+4894,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4895,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+4896,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4897,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4898,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4899,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4900,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+4901,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4902,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4903,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4904,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4905,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4906,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+4907,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4908,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+4909,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4910,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+4983,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4984,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+4985,Likely: 1_10 km of suitable stream reaches.,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+4987,Likely: 1_10 km of suitable stream reaches.,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+5000,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5362,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5363,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+5364,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5365,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5366,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5367,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5368,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5369,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+5370,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5371,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5372,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5373,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5374,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5375,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5376,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5377,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5378,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5379,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+5380,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+5381,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5382,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+5383,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5384,Confirmed,Confirmed,Confirmed,Confirmed
+5385,Confirmed,Confirmed,Confirmed,Confirmed
+5386,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5387,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+5388,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5389,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5390,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+5391,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5392,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5393,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5394,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5395,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+5396,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5397,Very likely: >10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+5398,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5399,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5400,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+5401,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5402,Confirmed,Confirmed,Confirmed,Confirmed
+5403,Confirmed,Confirmed,Confirmed,Confirmed
+5404,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+5405,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Confirmed,Confirmed
+5406,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+5407,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5408,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5409,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+5410,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5411,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5412,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+5413,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5414,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5415,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+5416,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+5417,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5418,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5419,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5420,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+5421,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5422,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5423,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5424,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5425,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5426,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5427,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5428,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5429,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5430,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5431,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5432,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5433,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5434,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5435,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5436,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5437,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5438,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5439,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5440,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+5441,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5442,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5443,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+5444,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5445,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5446,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5447,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+5448,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5449,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5450,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5451,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5452,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5453,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5454,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5455,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5456,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+5457,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8085,Very likely: >10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8086,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8087,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8088,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8089,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8090,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8091,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8092,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8093,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8094,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8095,Confirmed,Confirmed,Confirmed,Confirmed
+8096,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8097,Confirmed,Confirmed,Confirmed,Confirmed
+8098,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8099,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8100,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+8101,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8102,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8103,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8104,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+8105,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8106,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8107,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8108,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+8109,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8110,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+8111,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8112,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8113,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+8114,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8115,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+8116,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8117,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8118,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8119,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8120,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8121,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8122,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8123,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8124,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8125,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8126,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8127,Confirmed,Confirmed,Confirmed,Confirmed
+8128,Confirmed,Confirmed,Confirmed,Confirmed
+8129,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8130,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8131,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8132,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8133,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8134,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8135,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8136,Confirmed,Confirmed,Confirmed,Confirmed
+8137,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8138,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8139,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8140,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8141,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8142,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8143,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8144,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8145,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8146,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8147,Confirmed,Confirmed,Confirmed,Confirmed
+8148,Confirmed,Confirmed,Confirmed,Confirmed
+8149,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8150,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8151,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8152,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8153,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8154,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+8155,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8156,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8157,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8158,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8159,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8160,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8161,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8162,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+8163,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8164,Very likely: >10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8165,Very likely: >10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8166,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8167,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8168,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+8169,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8170,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8171,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8172,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8173,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8174,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8175,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8176,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8177,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8178,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8179,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8180,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8181,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8182,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8183,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8184,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8185,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8573,Confirmed,Confirmed,Confirmed,Confirmed
+8574,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8575,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+8576,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8577,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8578,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8579,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8580,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8581,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8582,Confirmed,Confirmed,Confirmed,Confirmed
+8583,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8584,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8585,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8586,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8587,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8588,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+8589,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8590,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8591,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8592,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8593,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8594,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+8595,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8596,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8597,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8598,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8599,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8600,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8601,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8602,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8603,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8604,Confirmed,Confirmed,Confirmed,Confirmed
+8605,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8606,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8607,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8608,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8609,Confirmed,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.
+8610,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8611,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8612,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8613,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8614,Confirmed,Confirmed,Confirmed,Confirmed
+8615,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8616,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8617,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8618,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+8619,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8620,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8621,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8622,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8623,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+8624,Confirmed,Confirmed,Confirmed,Confirmed
+8625,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+8626,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Very likely: >10 km of suitable stream reaches.
+8627,Likely: 1_10 km of suitable stream reaches.,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8628,Confirmed,Confirmed,Confirmed,Confirmed
+8629,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8630,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8631,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8632,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8633,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8634,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8635,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8636,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8637,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8638,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8639,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8640,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+8641,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8642,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8643,Confirmed,Confirmed,Confirmed,Confirmed
+8644,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8645,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8646,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+8647,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8648,Confirmed,Confirmed,Confirmed,Confirmed
+8649,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8650,Confirmed,Confirmed,Confirmed,Confirmed
+8651,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8652,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8653,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8654,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8655,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8656,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8657,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8658,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8659,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8660,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8661,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed,Confirmed
+8662,Confirmed,Confirmed,Confirmed,Confirmed
+8663,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8664,Likely: 1_10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+8665,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8666,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8667,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8668,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8669,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8670,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+8671,Confirmed,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.
+8672,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8673,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8674,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8675,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8676,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8677,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+8678,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8679,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8680,Confirmed,Confirmed,Confirmed,Confirmed
+8681,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+8682,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+8683,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+8684,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+8685,Confirmed,Confirmed,Confirmed,Confirmed
+8686,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+8687,Confirmed,Confirmed,Confirmed,Confirmed
+8688,Confirmed,Confirmed,Confirmed,Confirmed
+8689,Confirmed,Confirmed,Confirmed,Confirmed
+8690,Confirmed,Confirmed,Confirmed,Confirmed
+8691,Likely: 1_10 km of suitable stream reaches.,Confirmed,Confirmed,Confirmed
+8692,Likely: 1_10 km of suitable stream reaches.,Confirmed,Confirmed,Confirmed
+8693,Confirmed,Confirmed,Confirmed,Confirmed
+8694,Confirmed,Confirmed,Confirmed,Confirmed
+8695,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+8696,Likely: 1_10 km of suitable stream reaches.,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+8697,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14041,Confirmed,Confirmed,Confirmed,Confirmed
+14042,Confirmed,Confirmed,Confirmed,Confirmed
+14043,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+14044,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+14045,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14046,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+14047,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+14602,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14603,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14604,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+14605,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14619,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+14620,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+14621,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+14622,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+14623,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+14624,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14625,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14626,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+14627,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14628,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+14629,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14630,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.
+14631,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14632,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Very likely: >10 km of suitable stream reaches.
+14633,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14634,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14636,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+14638,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14639,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14640,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14641,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14642,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+14643,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15053,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15054,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+15055,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15056,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15057,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15058,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15059,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15060,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15061,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15062,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15063,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+15064,Very likely: >10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15065,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15066,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15067,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15068,Confirmed,Confirmed,Confirmed,Confirmed
+15069,Confirmed,Confirmed,Confirmed,Confirmed
+15070,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15071,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15072,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+15073,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+15074,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15075,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15076,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15077,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15078,Confirmed,Confirmed,Confirmed,Confirmed
+15079,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15080,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15081,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+15082,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15083,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15084,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15085,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15086,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15087,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+15088,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15089,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15090,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15091,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15092,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15093,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15094,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15095,Confirmed,Confirmed,Confirmed,Confirmed
+15096,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15097,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15098,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15099,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15100,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.
+15101,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15102,Confirmed,Confirmed,Confirmed,Confirmed
+15103,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15104,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15105,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15106,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15107,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15108,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15109,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15110,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+15111,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15112,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15113,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Confirmed
+15114,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+15115,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15116,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+15117,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15118,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15119,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15120,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15121,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15122,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15123,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+15124,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15125,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15126,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15127,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15128,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches
+15129,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15130,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+15131,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15132,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15133,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15134,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15135,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15136,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15137,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15138,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+15139,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15140,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15141,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15142,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15143,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15144,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15145,Confirmed,Confirmed,Confirmed,Confirmed
+15146,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15147,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+15148,Confirmed,Confirmed,Confirmed,Confirmed
+15149,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15150,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+15151,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Confirmed
+15152,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+15153,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15154,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15155,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15156,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15157,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+15158,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15159,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15160,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15161,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+15162,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15163,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+15164,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+15165,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+15166,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16549,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16550,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16551,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16552,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16553,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16554,Confirmed,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16555,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16556,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16557,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16558,Likely: 1_10 km of suitable stream reaches.,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16559,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16560,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16561,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16562,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16563,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16564,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16565,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16566,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16567,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16568,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16569,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16570,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+16571,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+16572,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16573,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16574,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16575,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16576,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16577,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16578,Possible: 0.1_1 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16579,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16580,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16581,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16582,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16583,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16584,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16585,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16586,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Confirmed
+16587,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16588,Confirmed,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Confirmed
+16589,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16590,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16591,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16592,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16593,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16594,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+16595,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+16596,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16597,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16598,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16599,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16600,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16601,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16602,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16603,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Confirmed
+16604,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16605,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16606,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16607,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16608,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16609,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16610,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16611,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16612,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16613,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16614,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16615,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+16616,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16617,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16618,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16619,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16620,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16621,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16622,Confirmed,Confirmed,Very likely: >10 km of suitable stream reaches.,Confirmed
+16623,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16624,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16625,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16626,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16627,Confirmed,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16628,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16629,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16630,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.
+16631,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16632,Confirmed,Confirmed,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16633,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16634,Confirmed,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16635,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16636,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16637,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16638,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16639,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.,Confirmed
+16640,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16641,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16642,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16643,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16644,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16645,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16646,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16647,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Confirmed
+16648,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.
+16649,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16650,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16651,Confirmed,Possible: 0.1_1 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.,Very likely: >10 km of suitable stream reaches.
+16652,Likely: 1_10 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Likely: 1_10 km of suitable stream reaches.
+16665,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16666,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16667,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16668,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16669,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16670,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16671,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16672,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16673,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16674,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16675,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16676,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed
+16677,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16678,Possible: 0.1_1 km of suitable stream reaches.,Possible: 0.1_1 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16679,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16680,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16681,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Possible: 0.1_1 km of suitable stream reaches.
+16685,Likely: 1_10 km of suitable stream reaches.,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16686,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16687,Confirmed,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16688,Likely: 1_10 km of suitable stream reaches.,Likely: 1_10 km of suitable stream reaches.,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
+16689,Unlikely: 0_0.1 km of suitable stream reaches,Confirmed,Unlikely: 0_0.1 km of suitable stream reaches,Unlikely: 0_0.1 km of suitable stream reaches
